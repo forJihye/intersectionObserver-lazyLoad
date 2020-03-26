@@ -1,0 +1,27 @@
+* {
+  margin: 0; 
+  padding: 0;
+}
+img {
+  max-width: 100%; 
+  height: auto;
+}
+body {
+  background-color: #f8f8f8;
+}
+.contents {
+  width: 420px; 
+  margin: 50px auto; 
+  padding: 30px 20px;
+  font-size: 14px;
+  box-sizing: border-box;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+.contents p {
+  margin: 20px 0;
+  line-height: 24px;
+}
+.image-container {
+  margin: 20px 0;
+}
