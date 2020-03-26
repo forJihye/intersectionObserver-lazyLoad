@@ -1,4 +1,3 @@
-
 typeof document !== 'undefined' && document.addEventListener('DOMContentLoaded', () => {
   let lazyImages = [].slice.call(document.querySelectorAll('img.lazy'))
   let active = false
